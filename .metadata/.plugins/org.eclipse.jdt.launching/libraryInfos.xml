@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Resources\Java_x86\jdk" version="1.8.0_221">
+<bootpath>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\resources.jar"/>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\rt.jar"/>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\jsse.jar"/>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\jce.jar"/>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\charsets.jar"/>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\jfr.jar"/>
+<entry path="C:\Resources\Java_x86\jdk\jre\classes"/>
+<entry path="C:\Program Files (x86)\Micro Focus\LeanFT\bin\java_shared\classes"/>
+<entry path="C:\Program Files (x86)\Micro Focus\LeanFT\bin\java_shared\classes\jasmine.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Resources\Java_x86\jdk\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
